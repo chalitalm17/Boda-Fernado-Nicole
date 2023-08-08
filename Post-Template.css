@@ -32,9 +32,10 @@
 }
 
 .u-section-1 .u-text-2 {
-  margin-bottom: 0;
   margin-top: 20px;
-  margin-left: 0;
+  margin-bottom: 0;
+
+  margin-left: 00px;
 }
 
 @media (max-width: 1199px) {
